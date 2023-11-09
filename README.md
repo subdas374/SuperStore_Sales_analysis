@@ -7,7 +7,7 @@ This project focuses on creating a Tableau Dashboard for Executive Sales Analysi
 ## Tableau Dashboard
 
 
-![Dashboard Screenshot](https://github.com/subdas374/SuperStore_Sales_analysis/blob/main/Executive_sales.png)
+![Dashboard Screenshot](https://github.com/subdas374/SuperStore_Sales_analysis/blob/main/Executive.png)
 
 ### Key Features
 
